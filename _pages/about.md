@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master's student at the School of Information Science and Technology, Fudan University, under the supervision of Professor [Xiaodong Gu]((https://scholar.google.no/citations?user=-CsNYlkAAAAJ&hl=zh-CN&oi=ao)). Previously, I completed my undergraduate studies at the same school, the School of Information Science and Technology, Fudan University.
+I am currently a master's student at the School of Information Science and Technology, Fudan University, under the supervision of Professor [Xiaodong Gu](https://scholar.google.no/citations?user=-CsNYlkAAAAJ&hl=zh-CN&oi=ao). Previously, I completed my undergraduate studies at the same school, the School of Information Science and Technology, Fudan University.
 
 Selected Papers
 ======
