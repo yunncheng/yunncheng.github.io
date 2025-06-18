@@ -11,4 +11,6 @@ I am currently a master's student at the School of Information Science and Techn
 
 Selected Papers
 ======
+- Guo, Yuncheng, and Xiaodong Gu. "MMRL: Multi-Modal Representation Learning for Vision-Language Models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2025. [CVPR2025](https://arxiv.org/abs/2503.08497)
+
 - Guo, Yuncheng, and Xiaodong Gu. "JoAPR: Cleaning the Lens of Prompt Learning for Vision-Language Models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_JoAPR_Cleaning_the_Lens_of_Prompt_Learning_for_Vision-Language_Models_CVPR_2024_paper.pdf)
