@@ -38,6 +38,8 @@ I am currently a Tencent Qingyun Program research intern.
 
 **Yuncheng Guo**, Gu Xiaodong
 
+[【**Paper**】](https://arxiv.org/abs/2505.10088) [【**Code**】](https://github.com/yunncheng/MMRL)
+
 </div>
 </div>
 
@@ -47,6 +49,8 @@ I am currently a Tencent Qingyun Program research intern.
 **OmniAID: Decoupling Semantic and Artifacts for Universal AI-Generated Image Detection in the Wild**
 
 **Yuncheng Guo**, Junyan Ye, Chenjue Zhang, Hengrui Kang, Haohuan Fu, Conghui He, Weijia Li
+
+[【**Paper**】](https://arxiv.org/abs/2511.08423) [【**Code**】](https://github.com/yunncheng/OmniAID)
 
 </div>
 </div>
@@ -58,6 +62,8 @@ I am currently a Tencent Qingyun Program research intern.
 
 **Yuncheng Guo**, Gu Xiaodong
 
+[【**Paper**】](https://arxiv.org/abs/2503.08497) [【**Code**】](https://github.com/yunncheng/MMRL)
+
 </div>
 </div>
 
@@ -67,6 +73,8 @@ I am currently a Tencent Qingyun Program research intern.
 **JoAPR: Cleaning the Lens of Prompt Learning for Vision-Language Models**
 
 **Yuncheng Guo**, Gu Xiaodong
+
+[【**Paper**】](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_JoAPR_Cleaning_the_Lens_of_Prompt_Learning_for_Vision-Language_Models_CVPR_2024_paper.pdf) [【**Code**】](https://github.com/yunncheng/JoAPR)
 
 </div>
 </div>
@@ -84,4 +92,4 @@ I am currently a Tencent Qingyun Program research intern.
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. in Electronic Science and Technology, College of Future Information Technology, Fudan University
-- *2019.09 - 2023.06*, B.Sc. in Electronic Information Science and Technology, School of Information Science and Technology, Fudan University
+- *2019.09 - 2023.06*, B.S. in Electronic Information Science and Technology, School of Information Science and Technology, Fudan University
