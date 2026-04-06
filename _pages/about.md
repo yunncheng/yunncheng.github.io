@@ -23,6 +23,10 @@ My research interests lie at the Vision-Language Models (VLMs), encompassing tra
 
 I am currently a Tencent Qingyun Program research intern.
 
+# 📖 Educations
+- *2023.09 - present*, Ph.D. in Electronic Science and Technology, College of Future Information Technology, Fudan University
+- *2019.09 - 2023.06*, B.Sc. in Electronic Information Science and Technology, School of Information Science and Technology, Fudan University
+
 # 🔥 News
 - *2026.02*: &nbsp;🎉 [MMRL++](https://arxiv.org/abs/2505.10088) was accepted by IJCV 2026!
 - *2025.11*: &nbsp;🎉 Released: [OmniAID: Decoupling Semantic and Artifacts for Universal AI-Generated Image Detection in the Wild](https://arxiv.org/abs/2511.08423)
@@ -81,7 +85,3 @@ I am currently a Tencent Qingyun Program research intern.
 - *2024-2025*, Fudan University Yang Longhu & Li Shaosi Scholarship, Fudan University Xiaomi Scholarship
 - *2023-2024*, Fudan University Chen Xiaoming & He Peixin Scholarship
 - *2019-2023*, Shanghai Outstanding Graduate, Fudan University Outstanding Student, National Endeavor Scholarship
-
-# 📖 Educations
-- *2023.09 - present*, Ph.D. in Computer Science, College of Future Information Technology, Fudan University
-- *2019.09 - 2023.06*, B.Sc. in Computer Science, School of Information Science and Technology, Fudan University
