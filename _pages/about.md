@@ -36,7 +36,7 @@ I am currently a Tencent Qingyun Program research intern.
 
 [**MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models**](https://arxiv.org/abs/2505.10088)
 
-**Yuncheng Guo**, Gu Xiaodong
+**Yuncheng Guo**, Xiaodong Gu
 
 [【**Paper**】](https://arxiv.org/abs/2505.10088) [【**Code**】](https://github.com/yunncheng/MMRL)
 
@@ -60,7 +60,7 @@ I am currently a Tencent Qingyun Program research intern.
 
 [**MMRL: Multi-Modal Representation Learning for Vision-Language Models**](https://arxiv.org/abs/2503.08497)
 
-**Yuncheng Guo**, Gu Xiaodong
+**Yuncheng Guo**, Xiaodong Gu
 
 [【**Paper**】](https://arxiv.org/abs/2503.08497) [【**Code**】](https://github.com/yunncheng/MMRL)
 
@@ -72,7 +72,7 @@ I am currently a Tencent Qingyun Program research intern.
 
 [**JoAPR: Cleaning the Lens of Prompt Learning for Vision-Language Models**](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_JoAPR_Cleaning_the_Lens_of_Prompt_Learning_for_Vision-Language_Models_CVPR_2024_paper.pdf)
 
-**Yuncheng Guo**, Gu Xiaodong
+**Yuncheng Guo**, Xiaodong Gu
 
 [【**Paper**】](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_JoAPR_Cleaning_the_Lens_of_Prompt_Learning_for_Vision-Language_Models_CVPR_2024_paper.pdf) [【**Code**】](https://github.com/yunncheng/JoAPR)
 
