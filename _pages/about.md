@@ -24,12 +24,24 @@ My research interests lie at the Vision-Language Models (VLMs), encompassing tra
 I am currently a Tencent Qingyun Program research intern.
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉 [MMRL++](https://arxiv.org/abs/2505.10088) was accepted by IJCV 2026!
-- *2025.11*: &nbsp;🎉 Released: [OmniAID: Decoupling Semantic and Artifacts for Universal AI-Generated Image Detection in the Wild](https://arxiv.org/abs/2511.08423)
-- *2025.02*: &nbsp;🎉 [MMRL](https://arxiv.org/abs/2503.08497) was accepted by CVPR 2025!
-- *2024.03*: &nbsp;🎉 [JoAPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_JoAPR_Cleaning_the_Lens_of_Prompt_Learning_for_Vision-Language_Models_CVPR_2024_paper.pdf) was accepted by CVPR 2024!
+- *2026.05*: &nbsp;🎉 [OmniAID](https://arxiv.org/abs/2511.08423) was accepted by **ICML 2026**!
+- *2025.12*: &nbsp;🎉 [MMRL++](https://arxiv.org/abs/2505.10088) was accepted by **IJCV 2026**!
+- *2025.02*: &nbsp;🎉 [MMRL](https://arxiv.org/abs/2503.08497) was accepted by **CVPR 2025**!
+- *2024.03*: &nbsp;🎉 [JoAPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_JoAPR_Cleaning_the_Lens_of_Prompt_Learning_for_Vision-Language_Models_CVPR_2024_paper.pdf) was accepted by **CVPR 2024**!
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/paper/OmniAID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**OmniAID: Decoupling Semantic and Artifacts for Universal AI-Generated Image Detection in the Wild**](https://arxiv.org/abs/2511.08423)
+
+**Yuncheng Guo**, Junyan Ye, Chenjue Zhang, Hengrui Kang, Haohuan Fu, Conghui He, Weijia Li
+
+[【**Paper**】](https://arxiv.org/abs/2511.08423) [【**Code**】](https://github.com/yunncheng/OmniAID)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/paper/MMRLpp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,18 +51,6 @@ I am currently a Tencent Qingyun Program research intern.
 **Yuncheng Guo**, Xiaodong Gu
 
 [【**Paper**】](https://arxiv.org/abs/2505.10088) [【**Code**】](https://github.com/yunncheng/MMRL)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/OmniAID.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**OmniAID: Decoupling Semantic and Artifacts for Universal AI-Generated Image Detection in the Wild**](https://arxiv.org/abs/2511.08423)
-
-**Yuncheng Guo**, Junyan Ye, Chenjue Zhang, Hengrui Kang, Haohuan Fu, Conghui He, Weijia Li
-
-[【**Paper**】](https://arxiv.org/abs/2511.08423) [【**Code**】](https://github.com/yunncheng/OmniAID)
 
 </div>
 </div>
